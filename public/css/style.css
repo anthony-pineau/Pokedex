@@ -1,0 +1,115 @@
+.dark-red {
+    background-color: #982C2C;
+    margin: 2%;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 7%;
+    padding: 20px; 
+} 
+
+.custom-nav {
+    background-color : #EFE3E3;
+    font-weight : bold;
+    border-radius: 0.8em 0.8em;
+    margin: 0.5%;
+}
+
+.nav-link, .navbar-brand{
+    color: #C14040;
+}
+
+.nav-item {
+    font-size : 1.5em;
+}
+
+.navbar-brand {
+    font-size : 2.5em;
+}
+
+.footer-nav {
+    color : #EFE3E3;
+    font-size: 1em;
+    position: absolute;
+    bottom: 0;
+    margin:0 auto;
+
+}
+
+.home h3,.home h4{
+    text-align: center;
+    color: #F9D3D3;
+}
+
+body{
+    background-color: #C14040;
+    font-family: 'Bree Serif', serif;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.blockdetail{
+    background-color: #982C2C;
+    width: 60%;
+    float: right;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+table, .blockdetail h3, .blockdetail h4{
+    color: white;
+
+}
+
+.progress{
+    float: right;
+    width: 800px;
+    background-color : #632B2B; 
+    height: 25px;
+    margin: 5px;
+}
+.details td{
+    width: 150px;
+}
+
+.progress-bar {
+    background-color : white;
+}
+
+.details table {
+    width: 100%; 
+}
+
+article h2{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    margin: 30px;;
+}
+
+.details .button{
+    display: inline-block;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px 10px 20px 0px;
+
+}
+
+.type{
+    padding: 2em;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+}
+
+.titretype{
+    color: white;
+    padding: 40px;
+}
+
+.type-link {
+    color: white;
+}
